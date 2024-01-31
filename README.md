@@ -11,9 +11,13 @@ A dashboard where all news items are listed in reverse chronological order
 A user can mark a news item as read or delete it. Deleted items are not shown in his/her panel but are not deleted from the database.
 
 
-Solution - Done using  Tech Stack ( React , NodeJS , ExpressJS , Puppeteer ,MongoDB)
+Solution - Done using  Tech Stack ( React , NodeJS, ExpressJS , Puppeteer,MongoDB)
 
-Puppeteer is used for crawling the web pages of hacker news website and scrap data as per requirement.
+Puppeteer is used for crawling the web pages of hackernews website and scraping data as required.
+React is used for the Frontend UI. ExpressJS for API endpoint development. MongoDB to store user and news item information.
 
 Demo Video
+
+https://github.com/shivansh-soni07/HackerNews-Clone-using-Web-Scraping-Nodejs/assets/72219885/360e26db-53ba-49e8-a24f-2193316b47c2
+
 
